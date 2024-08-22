@@ -1,0 +1,3 @@
+obf:
+  entry: amelia.py
+  output: dist
